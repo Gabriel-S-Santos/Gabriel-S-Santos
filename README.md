@@ -5,7 +5,6 @@
 - 🔭 Atualmente, estou em busca da minha primeira vaga!
 - 🌱 Estou estudando: Django e Solidity!
 - 📫 Contate-me no email: gabrielsilvadossantos3@gmail.com
-- ⚡ Fun facts: apesar da paixão por tecnologia, outra área de interesse que possuo é a da filosofia 🤔
 
  ##
 
