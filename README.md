@@ -21,7 +21,7 @@
     <img align="center" alt="Santos-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
     <img align="center" alt="Santos-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"> 
     <img align="center" alt="Santos-Sol" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg"> 
-    <img align="center" alt="Santos-Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/rust-original.svg"> 
+    <img align="center" alt="Santos-Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"> 
   </div>
 </div>
 
