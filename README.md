@@ -14,16 +14,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-S-Santos&layout=compact&langs_count=7&theme=dark"/>
   </div>
 
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Santos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Santos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Santos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Santos-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-    <img align="center" alt="Santos-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"> 
-    <img align="center" alt="Santos-Sol" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg"> 
-    <img align="center" alt="Santos-Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"> 
-  </div>
-</div>
+  
 
   ##
   
