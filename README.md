@@ -1,9 +1,9 @@
 ### Olá, mundo!👋 Sou Gabriel dos Santos
-#### 💻Estudante de Ciência da Computação: 5/8 - Unimar
+#### 💻Estudante de Ciência da Computação: 6/8 - Unimar
 
 - 🌟 Interesses: Data Analysis, Back-end e Web3
 - 🔭 Atualmente, estou em busca da minha primeira vaga!
-- 📫 Contate-me no email: gabrielsilvadossantos3@gmail.com
+- 📫 Contate-me no email: gabrielsilvadossantos@protonmail.com
 
  ##
 
